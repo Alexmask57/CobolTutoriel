@@ -1,0 +1,3 @@
+cobc -x -o jeu jeu_plus_ou_moins.cbl -free
+
+cobc -x -o tuto tuto.cbl -free
